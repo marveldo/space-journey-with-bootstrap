@@ -1,2 +1,3 @@
-# to-do-list-4.0
+# using bootstrap
+
 A todo list app made by django with function based views
